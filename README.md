@@ -11,3 +11,5 @@ pushing from git hub online: sept 10, 2016 @ 16.59
 pushing back form vsc sept 10, 2016 @ 17.02
 pushing from git hub online: sept 10, 2016 @ 17.08
 she is working well, but a little slow on the sync, but I like it.
+
+September 11, 2021 testing on vm
