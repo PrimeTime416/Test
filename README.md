@@ -14,3 +14,5 @@ she is working well, but a little slow on the sync, but I like it.
 
 September 11, 2021 testing on vm
 September 11, 2021 testing from web editor
+September 11, 2021 testing from vm in vim cli
+
